@@ -17,7 +17,7 @@ Individual-based model of closed predator-prey system following game theory dyna
 
 Select trait 
 -	Hawk (p)
--	Dove (1 ¬– p)
+-	Dove (1 – p)
 
 Abilities (dove)
 -	Always share prey with another dove.
